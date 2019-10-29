@@ -7,6 +7,9 @@ public class Main {
         System.out.println("Hello world");
 
 
+
         System.out.println("merge exercise");
+        System.out.println("More important stuff!");
+
     }
 }
