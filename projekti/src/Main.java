@@ -12,5 +12,6 @@ public class Main {
         System.out.println("More important stuff!");
         System.out.println("Merge conflict");
         System.out.println("All this code was made in devnella branch");
+        System.out.println("More code with devnella");
     }
 }
